@@ -1,10 +1,4 @@
-# Olympics-1896-2024-Tableau
-Complete history of Olympic winners only (countries and athletes) form 1896 to 2024, summer and winter games included.
-Here's a draft of the README file for your GitHub project:
-
----
-
-# Olympic History Dashboard (1896 - 2024)
+# Olympic Winners Dashboard (1896 - 2024) Summer & Winter games included
 
 ## Overview
 This project visualizes the history of the Summer and Winter Olympics from 1896 to 2024 using Tableau. The dataset includes only winning athletes and countries, with various visualizations showcasing key insights into Olympic medal winners over time. Data has been meticulously cleaned and merged from two sources: one containing historical data until 2022 and another including forecasted data for 2024.
