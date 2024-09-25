@@ -52,7 +52,7 @@ The cleaned and merged dataset is available as a final Excel file, which was use
 
 ## How to Use
 1. Clone the repository.
-2. Access the final Excel dataset (`olympics_1896_2024_s_w.xlsx`).
+2. Access the final dataset (`olympics_1896_2024_s_w.csv`).
 3. Use the Tableau dashboard file to explore various visualizations.
    
    Alternatively, upload the Excel file to your own Tableau environment and recreate or modify the visualizations.
